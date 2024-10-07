@@ -1,2 +1,0 @@
-# MeuPrimeiroProjeto
-Teste Git
